@@ -19,13 +19,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/>
 </p>
-
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/solee0022">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=solee0022&&hide=stars,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
-  </a>
-</p>
 <br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
