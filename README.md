@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center"> Hello👋, I'm Solee!</h2>
-<h3 align="center">I am a AI researcher who is into Speech Recognition!</h3>
+<h3 align="center">I am a AI researcher who is into SpeechLLM and Speech Recognition!</h3>
 <p align="center">
   <a href="https://velog.io/@ingsol"><img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
   <br/>
